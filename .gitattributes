@@ -1,0 +1,10 @@
+* text=auto
+
+# Explicit binary files
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.svg binary
+*.ico binary
+*.pdf binary

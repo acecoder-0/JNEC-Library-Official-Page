@@ -1,0 +1,79 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+:root {
+  --brown: #703c19;
+  --sidebar-bg: #d7cdc3;
+  --text-brown: #703c19;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+#root {
+  width: 100%;
+  max-width: none;
+  border: none;
+}
+
+.head_title {
+  font-family: 'Arial Black', Gadget, sans-serif;
+  font-size: 30px;
+  color: #2F4F8F;
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+.head_title2 {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 12px;
+  color: #2F4F8F;
+  margin: 10px 0;
+}
+
+.navbar ul {
+  padding-left: 60px;
+}
+
+.navbar-nav {
+  padding-left: 60px;
+}
+
+.carousel-inner {
+  box-shadow: 2px 2px 12px #606060;
+}
+
+a {
+  color: var(--brown);
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff !important;
+}
+
+.navbar-dark .navbar-nav .nav-link.active {
+  color: #fff !important;
+}
+
+.sidebar {
+  background-color: var(--sidebar-bg);
+}
+
+.marquee-container {
+  overflow: hidden;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+hr {
+  margin: 10px 0;
+}
+
+img.img-responsive {
+  max-width: 100%;
+  height: auto;
+}
