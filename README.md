@@ -311,7 +311,7 @@ For issues, questions, or suggestions, please:
 
 ## Authors
 
-**Sai Prasad Zampalwad** - Full Stack Development  
+**Aditya Karodiwal** - Full Stack Development  
 **Contributors** - [See GitHub contributors](https://github.com/saiprasadzampalwad/LIBRARY-JNEC-REACT/graphs/contributors)
 
 ---
